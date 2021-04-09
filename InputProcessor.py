@@ -1,6 +1,6 @@
 #First attempt at taking input and deciphering intent
 import requests as req
-from FSM import FSM
+from old_stuff.FSM import FSM
 
 class InputProcessor:
     """A class created with the intent of processing user input for SCITalk Chatbot"""
